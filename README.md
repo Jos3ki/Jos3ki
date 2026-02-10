@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **Jos3ki/Jos3ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,17 +29,16 @@ Here are some ideas to get you started:
 
 <!-- Description -->
 ```diff
-👨‍🎓 Currently studying Computer Systems Engineering.
-+ 💻 Passionate about web development and technology.
-+ ⚡ Always eager to learn more about networking and IT.
-✅ Responsible, curious, and motivated to keep growing.
-- ✨ If you can imagine it, you can program it. 
-@@ 🚀 Believer that knowledge is the key to innovation.@@
-+ 🧠 Currently working on a custom Network Scanner project.
+👨‍🎓 Ing. Sistema de informacion FIMAZ-UAS.
++ 💻 Apasionado al desarrollo web.
++ ⚡ Siempre aprendieno.
+✅ Responsable, Curioso, y motivado a seguir creciendo.
+- ✨ Si lo puedes imaginar lo pudes programar. 
++ 🧠 Actuamente Trabajando en FlowTrix.
 ```
 
 <!-- Skills Section -->
-## 🛠️ My Skills Include
+## 🛠️ My skills
 
 🔤 Languages  
 <p align="center">
@@ -62,7 +61,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📬 Connect with me  
+## 📬 Redes  
 <p align="center">
   <a href="https://instagram.com/joseca.castillo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
