@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ✨ Si lo puedes imaginar lo pudes programar. 
 + 🧠 Actuamente Trabajando en FlowTrix.
 ```
-
+<p align="center"> <img src="image.svg" width="350" alt="FlowTrix Project"> </p>
 <!-- Skills Section -->
 ## 🛠️ My skills
 
