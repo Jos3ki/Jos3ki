@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <!-- Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+Jose+Carlos+Castillo.">
+  <img src="image.svg" width="50" alt="FlowTrix Project">
 </p>
 
 <!-- Profile Picture -->
@@ -34,9 +35,9 @@ Here are some ideas to get you started:
 + ⚡ Siempre aprendieno.
 ✅ Responsable, Curioso, y motivado a seguir creciendo.
 - ✨ Si lo puedes imaginar lo pudes programar. 
-+ 🧠 Actuamente Trabajando en FlowTrix.
++ 🧠 Actuamente Trabajando en FlowTrix. 
 ```
-<p align="center"> <img src="image.svg" width="350" alt="FlowTrix Project"> </p>
+
 <!-- Skills Section -->
 ## 🛠️ My skills
 
